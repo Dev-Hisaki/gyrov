@@ -6,8 +6,8 @@
 <h2>Hardware</h2>
 <ul>
   <li>ESP32</li>
-  <li>Arduino Mega 2560</li>
-  <li>ESP32 Cam OV2640</li>
+  <li>Raspberry PI 2b</li>
+  <li>Webcam Xiaovv</li>
   <li>Motor Thruster DC 12V</li>
   <li>Joystick KY-02</li>
 </ul>
