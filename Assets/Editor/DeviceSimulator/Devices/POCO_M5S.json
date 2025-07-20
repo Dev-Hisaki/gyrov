@@ -1,0 +1,22 @@
+{
+  "name": "POCO M5s",
+  "identifier": "poco_m5s",
+  "screen": {
+    "width": 1080,
+    "height": 2400,
+    "dpi": 409,
+    "orientation": "portrait"
+  },
+  "safeArea": {
+    "x": 0,
+    "y": 0,
+    "width": 1080,
+    "height": 2400
+  },
+  "systemInfo": {
+    "operatingSystem": "Android OS 12",
+    "deviceModel": "POCO M5s",
+    "processorType": "MediaTek Helio G95",
+    "graphicsDeviceName": "Mali-G76 MC4"
+  }
+}
